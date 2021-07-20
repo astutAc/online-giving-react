@@ -1,0 +1,23 @@
+export const validation = {
+    emailEmptyValidation:'You must enter an email',
+    youtubeLink:'You must enter a wistia video id or youtube Link',
+    facebookLink:'Please enter a valid Facebook link',
+    twitterLink:'You must enter a twitter link',
+    linkedinLink:'You must enter a linkedin link',
+    instagramLink:'You must enter an instagram link',
+    title:'You must enter a title',
+    markDownText:'You must enter Home page content',
+    passwordEmpty:'You must enter a Password',
+    name:'You must enter a Name',
+    termPolicy:'Please accept term and policy',
+    description:'This field cannot be empty',
+    share: 'Please select a value for sharing',
+    comment:'Please write something in comment',
+    fullName:'Full Name is Required',
+    cantSame:'Old and new password should be different',
+    oldPasswordEmpty: 'Fill your old password',
+    pmpSectionCannotBeEmpty: 'This section cannot be empty',
+    ravingFanVideo:'Please insert link for raving fan video',
+    sharedUserVideo:'Please insert link for shared user video',
+    publicLinkVideo:'Please insert link for public link video tutorial'
+}
